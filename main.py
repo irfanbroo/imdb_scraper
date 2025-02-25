@@ -10,7 +10,7 @@ import time
 
 # Setting up Selenium WebDriver
 option = webdriver.ChromeOptions()
-option.add_argument("--headless")  #  you can comment this out to see how this works 
+#option.add_argument("--headless")    (uncommenting this will prevent the browser from opening up)  
 driver = webdriver.Chrome(options=option)
 
 # Function to search for a movie on IMDb
