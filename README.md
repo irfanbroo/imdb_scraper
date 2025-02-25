@@ -73,6 +73,7 @@ python imdb_scraper.py
 4️⃣ The results will also be saved in a `.txt` file.
 
 Example output in the terminal:
+![Screenshot of IMDb Scraper](./Screenshot 2025-02-25 220152.png)
 
 ```
 🎬  Movie: Inception
