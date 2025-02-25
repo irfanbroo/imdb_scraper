@@ -74,7 +74,7 @@ python imdb_scraper.py
 
 Example output in the terminal:
 
-![Screenshot of IMDb Scraper](./Screenshot 2025-02-25 220152.png)
+![Screenshot of IMDb Scraper(https://github.com/irfanbroo/imdb_scraper/blob/main/Screenshot%202025-02-25%20220152.png)
 
 ```
 🎬  Movie: Inception
