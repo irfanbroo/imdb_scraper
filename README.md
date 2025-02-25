@@ -1,5 +1,6 @@
 # IMDb Movie Scraper 🎬
 
+Use this for scrapping imdb for reviews and ratings, this scipt uses selenium because Selenium acts as a browser automation tool, enabling us to interact with the IMDb website just like a real user would. 
 
 ## 🛠 Technologies Used
 
